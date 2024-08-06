@@ -1,2 +1,2 @@
 This React.js Weather Web App uses the OpenWeatherMap API to deliver real-time weather updates. Users can search for cities to see current conditions, including temperature, humidity, and wind speed. The app features a sleek, user-friendly interface with dynamic weather icons and backgrounds. Perfect for quick, reliable weather information.
-To run the project you must have to install npm modules and then enter command "nmp start" (Without Quotes) it will run.
+To run the project you must have to install npm modules and then enter command "npm start" (Without Quotes) it will run.
